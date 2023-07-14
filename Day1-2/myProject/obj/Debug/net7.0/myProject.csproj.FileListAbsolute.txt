@@ -1,0 +1,15 @@
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\bin\Debug\net7.0\myProject.exe
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\bin\Debug\net7.0\myProject.deps.json
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\bin\Debug\net7.0\myProject.runtimeconfig.json
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\bin\Debug\net7.0\myProject.dll
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\bin\Debug\net7.0\myProject.pdb
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\myProject.csproj.AssemblyReference.cache
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\myProject.AssemblyInfoInputs.cache
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\myProject.AssemblyInfo.cs
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\myProject.dll
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\refint\myProject.dll
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\myProject.pdb
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\myProject.genruntimeconfig.cache
+C:\Users\rahul\Desktop\C-sharp\Day1-2\myProject\obj\Debug\net7.0\ref\myProject.dll
